@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Deeptesh Rout</h1>
-<p align="left"> <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="deeptesh-rout" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="deeptesh-rout" /> </p>
 <h3 align="center">Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepteshrout&label=Profile%20views&color=0e75b6&style=flat" alt="deepteshrout" /> </p>
 
